@@ -16,3 +16,4 @@
 >[!NOTE]
 > <h1>Every CS2 update this repository will update the respective folders along with its offset and client.</h1>
 > <h3>This is a dedicated repository of Cynosys updated offset and client.dll.json</h3>
+> <h3>The cheat itself was developed by BarsxST from the original fork of Tim Apple and it's not mine.</h3>
